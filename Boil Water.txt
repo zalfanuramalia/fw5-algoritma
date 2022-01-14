@@ -1,0 +1,9 @@
+Algoritma memasak air :
+1. Mulai
+2. Menyiapkan Wajan 
+3. Memasukkan air kedalam wajan
+4. Menutup Wajan
+5. Menghidupkan kompor
+6. Tunggu air mendidih
+7. Mematiakan kompor sampai air mendidih
+8. Selesai

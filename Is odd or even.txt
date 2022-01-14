@@ -1,0 +1,6 @@
+Algoritma Menentukan nilai x ganjil atau genap:
+1. Mulai
+2. Mendefinisikan nilai x
+3. Jika nilai x habis dibagi 2 maka hasilnya genap
+4. jika tidak maka hasilnya ganjil
+5. Selesai

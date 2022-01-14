@@ -1,0 +1,7 @@
+Algoritma menukar isi gelas:
+1. Mulai
+2. Menyiapkan satu buah gelas kosong, satu gelas berisi teh dan satu gelas berisi kopi
+3. Memindahkan isi dalam gelas teh kedalam gelas kosong
+4. Memindahkan isi dalam gelas kopi kedalam gelas teh yang telah dikosongkan
+5. Memindahkan isi dalam gelas yang awalnya kosong menjadi gelas berisi teh ke dalam gelas yang awalnya gelas kopi menjadi gelas kosong
+6. Selesai
