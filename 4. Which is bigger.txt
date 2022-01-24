@@ -1,6 +1,7 @@
 Algoritma menentukan mana nilai dari x dan y yang terbesar :
 1. Mulai
 2. Mendefinisikan nilai x dan y
-3. Mendefinisikan jika x>y maka hasil bernilai x
+3. Jika x>y maka hasil bernilai x
 4. Jika tidak maka hasil bernilai y
-5. Selesai
+5. Mengeluarkan hasil
+6. Selesai

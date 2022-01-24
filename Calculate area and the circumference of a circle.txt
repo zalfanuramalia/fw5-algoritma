@@ -1,8 +1,0 @@
-Algoritma menghitung luas dan keliling lingkaran :
-1. Mulai
-2. Mendefinisikan panjang jari-jari
-3. Mendefinisikan phi lingkaran jika habis dibagi 7 menggunakan 22/7 jika tidak menggunakan 3,14 
-4. Melakukan perhitungan luas lingkaran phi * r * r
-5. Melakukan perhitungan keliling lingkaran 2 * phi * r
-6. Mengeluarkan hasil
-7. Selesai
